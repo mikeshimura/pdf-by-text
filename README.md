@@ -4,7 +4,7 @@ create complex pdf from text file.
 [日本語の説明はこちら](https://github.com/mikeshimura/pdf-by-text/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%AA%AC%E6%98%8E)
 
 This program is executable file for windows, mac or linux.  
-Any language can create text file and execute child process can use this program.  
+Any language which create text file and execute child process can use this program.  
 
 This program use github.com/signintech/gopdf for pdf generation.
 
@@ -32,29 +32,29 @@ CR	190.00	23.00	20.00	Amount
 
 Simple report sample
 ![Simple1](https://bytebucket.org/mikeshimura/goreport/wiki/image/simple1.jpg "Simple1")  
-[text](https://github.com/mikeshimura/pdf-by-text/blob/master/example/simple1.txt)
-[pdf](https://github.com/mikeshimura/pdf-by-text/blob/master/example/simple1.pdf)  
+[text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/simple1.txt)
+[pdf](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/simple1.pdf)  
 
 
 Medium report sample
 ![Medium1](https://bytebucket.org/mikeshimura/goreport/wiki/image/medium1.jpg "Medium1")
 
-[text](https://github.com/mikeshimura/pdf-by-text/blob/master/example/medium1.txt)
-[pdf](https://github.com/mikeshimura/pdf-by-text/blob/master/example/medium1.pdf)  
+[text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/medium1.txt)
+[pdf](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/medium1.pdf)  
 
 
 
 Complex report sample
 ![Complex1](https://bytebucket.org/mikeshimura/goreport/wiki/image/complex1.jpg "Complex1")
 
-[text](https://github.com/mikeshimura/pdf-by-text/blob/master/example/complex1.txt)
-[pdf](https://github.com/mikeshimura/pdf-by-text/blob/master/example/complex1.pdf)  
+[text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex1.txt)
+[pdf](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex1.pdf)  
 
 
 ![Complex2](https://bytebucket.org/mikeshimura/goreport/wiki/image/complex2.jpg "Complex2")
 
-[text](https://github.com/mikeshimura/pdf-by-text/blob/master/example/complex2.txt)
-[pdf](https://github.com/mikeshimura/pdf-by-text/blob/master/example/complex2.pdf)  
+[text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2.txt)
+[pdf](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2.pdf)  
 
 ##Execution  
 
@@ -64,12 +64,12 @@ fontfile default is font.yml
 outputfile default is inputfile name with file extension changed to pdf
 
 ##Download  
-[windows 386](https://github.com/mikeshimura/pdf-by-text/blob/master/pdf-by-text_windows_386.exe)  
-[windows amd64](https://github.com/mikeshimura/pdf-by-text/blob/master/pdf-by-text_windows_amd64.exe)  
-[mac 386](https://github.com/mikeshimura/pdf-by-text/blob/master/pdf-by-text_darwin_386)  
-[mac amd64](https://github.com/mikeshimura/pdf-by-text/blob/master/pdf-by-text_darwin_386)  
-[linux 386](https://github.com/mikeshimura/pdf-by-text/blob/master/pdf-by-text_linux_386)  
-[linux amd64](https://github.com/mikeshimura/pdf-by-text/blob/master/pdf-by-text_linux_amd64)  
+[windows 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_386.exe)  
+[windows amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_amd64.exe)  
+[mac 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_darwin_386)  
+[mac amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_darwin_386)  
+[linux 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_linux_386)  
+[linux amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_linux_amd64)  
 
 ##concept
 - Simple command to draw object
