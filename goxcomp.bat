@@ -1,0 +1,1 @@
+D:\AW\picorre\wkpicorre\to-bi-develop\bin\gox -osarch="darwin/386 darwin/amd64 windows/386 windows/amd64 linux/386 linux/amd64"
