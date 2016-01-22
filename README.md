@@ -61,7 +61,7 @@ Complex report sample
 pdf-by-text(.exe) -f fontfile -o outputfile -e encoding inputfile
 
 fontfile default is font.yml  
-outputfile default is inputfile name with file extension changed to pdf
+outputfile default is inputfile name with file extension changed to pdf  
 encoding default is UTF8. Accept ShiftJIS, EUCJP.
 
 ##Download  
