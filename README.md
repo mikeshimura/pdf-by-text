@@ -53,15 +53,16 @@ Complex report sample
 
 ![Complex2](https://bytebucket.org/mikeshimura/goreport/wiki/image/complex2.jpg "Complex2")
 
-[text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2.txt)
+[text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2sjis.txt)
 [pdf](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2.pdf)  
 
 ##Execution  
 
-pdf-by-text(.exe) -f fontfile -o outputfile inputfile
+pdf-by-text(.exe) -f fontfile -o outputfile -e encoding inputfile
 
 fontfile default is font.yml  
 outputfile default is inputfile name with file extension changed to pdf
+encoding default is UTF8. Accept ShiftJIS, EUCJP.
 
 ##Download  
 [windows 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_386.exe)  
