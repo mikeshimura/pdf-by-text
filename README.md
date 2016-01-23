@@ -136,7 +136,7 @@ Elements must be separated by tab(\t).
 
 - Shape Draw  
   - Rectangle  
-   R {x1} {y1} {x2} {y2} {line width}  
+   R {x1} {y1} {x2} {y2} 
   - Oval  
    O {x1} {y1} {x2} {y2}  
 
