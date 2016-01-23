@@ -93,8 +93,8 @@ Elements must be separated by tab(\t).
 - Page Setup  
  - Predefined page  
    A {unit} {size} {orientation}  
-   //unit mm(millimeter), pt(point), in(Inch)  
-   //size A4 or LTR
+   //unit mm(millimeter), pt(point), in(Inch)   
+   //size A4 or LTR  
    //orientation P(portrate) or L(Landscape)  
  - Frexible Page  
    A1 {unit} {width} {height}  
@@ -122,7 +122,7 @@ Elements must be separated by tab(\t).
 - Line Draw  
  - Line Type  
    LT {linetype} {width}  
-   //lineType "dashed" ,"dotted","straight" ""="straight"   
+   //lineType "dashed" ,"dotted","straight". "" = "straight"   
  - Gray Stroke (Gray Scale)  
   GS  {scale}  
   // scale 100 - 0  
@@ -136,7 +136,7 @@ Elements must be separated by tab(\t).
 
 - Shape Draw  
   - Rectangle  
-   R {x1} {y1} {x2} {y2} 
+   R {x1} {y1} {x2} {y2}
   - Oval  
    O {x1} {y1} {x2} {y2}  
 
