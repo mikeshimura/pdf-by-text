@@ -98,7 +98,9 @@ Elements must be separated by tab(\t).
    //orientation P(portrate) or L(Landscape)  
  - Frexible Page  
    A1 {unit} {width} {height}  
-
+ - New Page  
+  NP
+  
 
 - Font setting  
  - Font face
