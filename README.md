@@ -8,7 +8,7 @@ Any language which create text file and execute child process can use this progr
 
 This program use github.com/signintech/gopdf for pdf generation.
 
-##First part of following Simple report is as follows.  
+## First part of following Simple report is as follows.  
 Columns must be separated by tab(\t).
 
 ```go
@@ -56,7 +56,7 @@ Complex report sample
 [text](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2sjis.txt)
 [pdf](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/complex2.pdf)  
 
-##Execution  
+## Execution  
 
 pdf-by-text(.exe) -f fontfile -o outputfile -e encoding inputfile
 
@@ -65,7 +65,7 @@ fontfile default is font.yml
 outputfile default is inputfile name with file extension changed to pdf  
 encoding default is UTF8. Accept ShiftJIS, EUCJP.
 
-##Download  
+## Download  
 [windows 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_386.exe)  
 [windows amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_amd64.exe)  
 [mac 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_darwin_386)  
@@ -73,12 +73,12 @@ encoding default is UTF8. Accept ShiftJIS, EUCJP.
 [linux 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_linux_386)  
 [linux amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_linux_amd64)  
 
-##concept
+## concept
 - Simple command to draw object
 - Support unit of mm(millimeter), pt(point) and in(Inch).
 - Line can be used as gray fill pattern.  
 
-##font file  
+## font file  
 ```
 -
   name:IPAexG
@@ -87,7 +87,7 @@ encoding default is UTF8. Accept ShiftJIS, EUCJP.
   name:MPBOLD
   file:ttf\mplus-1p-bold.ttf
 ```
-##Draw commands  
+## Draw commands  
 
 Elements must be separated by tab(\t).
 
@@ -147,7 +147,7 @@ Elements must be separated by tab(\t).
 - Image Draw  
  I {path} {x1} {y1} {x2} {y2}
 
-##Limitation  
+## Limitation  
 - Font style not allow B(bold) and I(italic).
 - Line, Rect and Oval are Black and Gray only.
 - Image file format is jpeg only.  
