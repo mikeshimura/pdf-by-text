@@ -69,7 +69,7 @@ encoding default is UTF8. Accept ShiftJIS, EUCJP.
 [windows 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_386.exe)  
 [windows amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_windows_amd64.exe)  
 [mac 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_darwin_386)  
-[mac amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_darwin_386)  
+[mac amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_darwin_amd64)  
 [linux 386](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_linux_386)  
 [linux amd64](https://bytebucket.org/mikeshimura/goreport/wiki/pdf-by-text/pdf-by-text_linux_amd64)  
 
